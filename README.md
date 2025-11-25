@@ -1,6 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M2
-## Name: Bavan vel K
-## Reg no: 212224020006
+## Name: latchaya priyan S
+## Reg no: 212224230139
 # IAPR-2- Module 2 - FoC
 ## 3. Implementation of programs using conditional statements.
 ## 4. Implementation of programs using various control statements.
